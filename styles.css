@@ -20,8 +20,8 @@ body {
   .btn {
     margin: 20px;
     display: inline-block;
-    height: 180px;
-    width: 180px;
+    height: 10rem;
+    width: 10rem;
     border: 10px solid black;
     border-radius: 20%;
   }
